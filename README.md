@@ -1,2 +1,3 @@
 # MeO
-coming soon
+Coming soon...
+A meta-objective approach for many-objective evolutionary optimization. Evolutionary Computation. under review.
